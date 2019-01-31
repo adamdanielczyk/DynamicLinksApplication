@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/.idea/workspace.xml
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/libraries
+/.idea/markdown-navigator
+/.idea/markdown-exported-files.xml
+/.idea/markdown-navigator.xml
+/.idea/caches
+.DS_Store
+/build
+/mobile/src/main/res/svg/
+
+# Local configuration file (sdk path, etc)
+/local.properties
+/keystore.properties
